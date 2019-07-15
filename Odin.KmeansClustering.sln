@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odin.KmeansClustering", "Odin.KmeansClustering\Odin.KmeansClustering.csproj", "{879C0C02-7AE4-4E81-9880-BE68A2781A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{118B30BC-3D94-4200-86CE-F227C6C08FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879C0C02-7AE4-4E81-9880-BE68A2781A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879C0C02-7AE4-4E81-9880-BE68A2781A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879C0C02-7AE4-4E81-9880-BE68A2781A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879C0C02-7AE4-4E81-9880-BE68A2781A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118B30BC-3D94-4200-86CE-F227C6C08FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118B30BC-3D94-4200-86CE-F227C6C08FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118B30BC-3D94-4200-86CE-F227C6C08FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118B30BC-3D94-4200-86CE-F227C6C08FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8830B032-E80E-478D-935B-1AAE1401CD1F}
+	EndGlobalSection
+EndGlobal

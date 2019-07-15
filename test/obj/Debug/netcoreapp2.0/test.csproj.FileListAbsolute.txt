@@ -1,0 +1,55 @@
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\test.deps.json
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\test.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\test.pdb
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\obj\Debug\netcoreapp2.0\test.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\test\obj\Debug\netcoreapp2.0\test.pdb
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.deps.json
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.dll
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.pdb
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csprojAssemblyReference.cache
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csproj.CopyComplete
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.dll
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.pdb
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.deps.json
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.dll
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.pdb
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csprojAssemblyReference.cache
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csproj.CopyComplete
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.dll
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.pdb
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.deps.json
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.dll
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\test.pdb
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csprojAssemblyReference.cache
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.csproj.CopyComplete
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.dll
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\test\obj\Debug\netcoreapp2.0\test.pdb

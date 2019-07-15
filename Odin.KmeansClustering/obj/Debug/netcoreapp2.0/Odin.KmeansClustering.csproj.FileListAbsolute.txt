@@ -1,0 +1,35 @@
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.deps.json
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csprojResolveAssemblyReference.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csproj.CoreCompileInputs.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfoInputs.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfo.cs
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.deps.json
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csprojAssemblyReference.cache
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfoInputs.cache
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfo.cs
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\Denis_Pashkov\Desktop\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.deps.json
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfoInputs.cache
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfo.cs
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\Denis_Pashkov\Desktop\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.deps.json
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csprojAssemblyReference.cache
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csproj.CoreCompileInputs.cache
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfoInputs.cache
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfo.cs
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+E:\Drive\OneDrive - EPAM\K-MeansTextClustering-master\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
